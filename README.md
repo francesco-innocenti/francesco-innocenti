@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 👨‍💻 I’m currently a PhD student in Machine Learning and Computational Neuroscience at the University of Sussex, Brighton (UK).
+- 👨‍💻 I’m currently a PhD student in Machine Learning and Theoretical Neuroscience at the University of Sussex, Brighton (UK).
 - 🧠 Interested in brain-inspired learning and deep learning theory.
 
 \
